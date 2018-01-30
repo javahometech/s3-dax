@@ -1,0 +1,2 @@
+com\amazonaws\lambda\processexcel\service\ReadExcelFromS3.class
+com\amazonaws\lambda\demo\ProcessExcelDataPersistInDAX.class
